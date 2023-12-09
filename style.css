@@ -1,0 +1,30 @@
+.holder {
+  width: 450px;
+}
+.photo {
+  width: 400px;
+  height: 350px;
+}
+h2 {
+  display: flex;
+  color: #fff;
+  position: relative;
+  top: 350px;
+  width: 400px;
+  height: 50px;
+  background: #333333cb;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+}
+p {
+  position: absolute;
+  background: #33333383;
+  color: #fff;
+  width: 65px;
+  top: 41px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
